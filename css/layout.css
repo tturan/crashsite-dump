@@ -15,16 +15,11 @@ body{
 }
 
 .box {
-  padding: 10px;
-  margin-top: 25px;
+  padding: 5px;
 }
 
 img {
   width: 100%;
-}
-
-.box h2{
-  font-size: 18px;
 }
 
 .box a.read-more {
@@ -37,15 +32,3 @@ img {
 p{
   font-size: 14px;
 }
-
-.grid_1{
-  margin-bottom: 15px;
-}
-
-.box .grid_5 {
-  margin-top: 75px;
-}
-
-.grid_4 {
-   margin-top: 120px;
- }
